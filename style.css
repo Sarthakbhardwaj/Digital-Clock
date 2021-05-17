@@ -67,47 +67,4 @@ body{
 #time div:last-child span:nth-child(2){
     background: #ec0062;
 }
-/* body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #060a1f;
-}
-body h2{
-    position: relative;
-    display: block;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    margin: 10px 0;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.4em;
-    font-size: 0.8em;
-}
-#time{
-    display: flex;
-}
-#hours{
-    position:relative;
-    display: block;
-    width: 100px;
-    height: 80px;
-    background:rgb(33, 33, 59) ;
-}
-#mins{
-    position:relative;
-    display: block;
-    width: 100px;
-    height: 80px;
-    background:rgb(33, 33, 59) ;
-}
-#secs{
-    position:relative;
-    display: block;
-    width: 100px;
-    height: 80px;
-    background:rgb(33, 33, 59) ;
-}
 
- */
