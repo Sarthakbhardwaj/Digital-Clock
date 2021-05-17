@@ -12,7 +12,8 @@ body{
     background: #060a1f;
 }
 #heading{
-    position:relative;
+    position:absolute;
+    top: 240px;
     display:block;
     color: rgb(219, 11, 11);
     text-align: center;
@@ -20,7 +21,7 @@ body{
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.35em;
-    font-size: 0.8em;
+    font-size: 1.2em;
 }
 
 #time{
